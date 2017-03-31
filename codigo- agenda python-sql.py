@@ -1,5 +1,5 @@
 # agenda-pythonEsql
-codigo em python de uma agenda simples que salva as informação usando sql 
+#codigo em python de uma agenda simples que salva as informação usando sql 
 
 import datetime
 import time
